@@ -1,5 +1,4 @@
-# ArchLinux-ARMv7-cho-Nexus-7-2012-wifi-rev-e1565-kernel-514-rc3-support-USB-OTG
-Linux on Nexus 7 2012
+# ArchLinux ARMv7 F2FS Nexus 7 2012 wifi rev E.1565 kernel 5.14-rc3 USB-OTG
 
 Kết nối với usb keyboard qua cổng micro-usb vì đây là Archlinux minimal distro nên tự chọn DE cài, lxdm/lxqt(lxde), xfce 4.16, xfce4 mix i3wm, gnome 40, phosh, sxmo
 
@@ -8,6 +7,14 @@ Kết nối với usb keyboard qua cổng micro-usb vì đây là Archlinux mini
 Link download trên Google drive:
 
 
+
+ArchLinux ARMv7 latest f2fs rootfs
+
+https://drive.google.com/drive/folders/13ja5utmNSyNiz4xKTG5qcoBqRNv9qVYw?usp=sharing
+
+
+
+ArchLinux ARMv7 latest ext4 rootfs
 
 https://drive.google.com/folderview?id=1szK5trBse8-j1hSIgzZDppL3R6ySNSCP
 
